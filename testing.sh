@@ -1,1 +1,1 @@
-echo "just some testings"
+echo "just some testings for webhook"
