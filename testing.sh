@@ -1,1 +1,1 @@
-echo "just some testing"
+echo "just some testings"
